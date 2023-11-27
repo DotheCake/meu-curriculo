@@ -1,5 +1,6 @@
 # Mariana Faé Mollo
 ## 23 anos - marianafmollo@hotmail.com - (19) 99860-9345
+![foto](sakura.png)
 
 ### Objetivo: Dev Front-End
 
