@@ -1,5 +1,5 @@
 # Mariana Faé Mollo
-## marianafmollo@hotmail.com - (19) 99860-9345
+## 23 anos - marianafmollo@hotmail.com - (19) 99860-9345
 
 ### Objetivo: Dev Front-End
 
@@ -10,3 +10,5 @@
 ## Cursos Livres
 - Recreação, Senac Águas de São Pedro
 - Excel, Senac Águas de São Pedro
+- Negociação com influência - Conquer
+
